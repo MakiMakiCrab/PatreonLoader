@@ -1,12 +1,3 @@
 2023-05-06 01:00
-- Added a toggle to open up to 100 chests at a time (I'll change it to a slider later)
-- Changed to use VRChat's JSON parser for the Patreon loader (Should fix Patreon benefits for quest)
-- Changed pens to be on by default (Can be disabled with low world quality setting)
-- Fixed swapped mirror position controls in the back sofa area
-- Fixed Godpiercer not giving the correct GB value
-- Fixed Resplendent Bulwark displaying wrong active skill formula
-- Fixed Patreon board scrolling
-- Fixed some rock colliders near dragon
-- Adjusted coin spawn positions
-- Extended dragon collider
-- Added front roof collider 
+- Added latest updates board
+- Adjusted some wall colliders
