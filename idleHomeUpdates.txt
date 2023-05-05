@@ -1,4 +1,4 @@
 2023-05-06 02:06
 - Added latest updates board
 - Adjusted some wall colliders
-- Adjusted patreon board scroll speed
+- Adjusted Patreon board scroll speed
