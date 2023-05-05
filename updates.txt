@@ -1,4 +1,4 @@
-2023-05-04 18:34
+2023-05-06 00:58
 - Added a toggle to open up to 100 chests at a time (I'll change it to a slider later)
 - Changed to use VRChat's JSON parser for the Patreon loader (Should fix Patreon benefits for quest)
 - Changed pens to be on by default (Can be disabled with low world quality setting)
