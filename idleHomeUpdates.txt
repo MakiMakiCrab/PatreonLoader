@@ -1,4 +1,9 @@
-2023-05-06 02:06
-- Added latest updates board
-- Adjusted some wall colliders
-- Adjusted Patreon board scroll speed
+2023-05-07 17:10
+- Added soft pity to gacha. At 99+ pity, you have a 50% chance to get a legendary
+- Added video audio source to video player toggle
+- Fixed dog showing wrong movement animation
+- Fixed price for ascension upgrades not updating when number format is changed
+- Fixed player upgrade name reseting after upgrading
+- Increased daily bonus multiplier maximum
+- Changed load cooldown to 30s
+- Bug fixes
