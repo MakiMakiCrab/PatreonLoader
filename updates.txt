@@ -1,4 +1,4 @@
-2023-05-07 16:00
+2023-05-07 16:30
 - Added soft pity to gacha. At 99+ pity, you have a 50% chance to get a legendary
 - Added video audio source to video player toggle
 - Fixed dog showing wrong movement animation
