@@ -1,9 +1,9 @@
-2023-05-05 13:10
+2023-05-08 01:55
 - Added soft pity to gacha. At 99+ pity, you have a 50% chance to get a legendary
 - Added video audio source to video player toggle
-- Fixed dog showing wrong movement animation
-- Fixed price for ascension upgrades not updating when number format is changed
-- Fixed player upgrade name reseting after upgrading
-- Increased daily bonus multiplier maximum
-- Changed load cooldown to 30s
-- Bug fixes
+- Added Ascension Pet Combo
+- Added Gold section to info tablet
+- Added qvpen surftrace colliders to left and right walls
+- Changed super pets to have all pets unlocked so far instead of only the current ascension
+- Changed gacha dimensional storage to guarantee 1 key per level
+Visit the discord server for more details
