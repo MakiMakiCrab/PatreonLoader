@@ -1,9 +1,5 @@
-2023-05-08 01:55
-- Added soft pity to gacha. At 99+ pity, you have a 50% chance to get a legendary
-- Added video audio source to video player toggle
-- Added Ascension Pet Combo
-- Added Gold section to info tablet
-- Added qvpen surftrace colliders to left and right walls
-- Changed super pets to have all pets unlocked so far instead of only the current ascension
-- Changed gacha dimensional storage to guarantee 1 key per level
+2023-05-14 04:54
+- Added settings to save code
+- Added padding to end of save code
+- Changed key drop chance for normal dragons
 Visit the discord server for more details
