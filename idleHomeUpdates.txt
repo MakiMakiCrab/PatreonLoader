@@ -1,5 +1,6 @@
-2023-05-14 04:54
-- Added settings to save code
-- Added padding to end of save code
-- Changed key drop chance for normal dragons
+2023-05-17 02:49
+- Improved lighting on the terrain
+- Fixed an issue where the key drop chance
+- Changed player hit count icon
+- Added bonus stats for amount of play time, ascensions, and times dragon is hit by the player (Last page on the star tab)
 Visit the discord server for more details
