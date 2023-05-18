@@ -1,6 +1,7 @@
-2023-05-17 02:49
-- Improved lighting on the terrain
-- Fixed an issue with the key drop chance
-- Changed player hit count icon
-- Added bonus stats for amount of play time, ascensions, and times dragon is hit by the player (Last page on the star tab)
+2023-05-19 01:28
+- Fixed gacha key sound playing from wrong audio source
+- Fixed swapped play time and ascension bonus stats
+- Added shelf pickup and gacha teleport to the side of the shelf
+- Added weapon position saving 
+- Set world settings saving to be off by default
 Visit the discord server for more details
