@@ -1,7 +1,5 @@
-2023-05-19 01:28
-- Fixed gacha key sound playing from wrong audio source
-- Fixed swapped play time and ascension bonus stats
-- Added shelf pickup and gacha teleport to the side of the shelf
-- Added weapon position saving 
-- Set world settings saving to be off by default
+2023-05-30 04:15
+- Changed dragon count to 1 if failed to kill boss
+- Changed Thaumaturgus stats to match description
+- Added dragon mutations (more mutations are planned and all mutations subject to change)
 Visit the discord server for more details
