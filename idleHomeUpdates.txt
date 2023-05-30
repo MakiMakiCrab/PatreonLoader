@@ -1,5 +1,7 @@
-2023-05-30 04:15
+2023-05-30 14:23
 - Changed dragon count to 1 if failed to kill boss
 - Changed Thaumaturgus stats to match description
 - Added dragon mutations (more mutations are planned and all mutations subject to change)
+- Added sound effect to mutation
+- Updated description for Coremaul
 Visit the discord server for more details
