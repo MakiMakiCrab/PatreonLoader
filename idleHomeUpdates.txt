@@ -1,8 +1,5 @@
-2023-05-30 23:25
-- Changed dragon count to 1 if failed to kill boss
-- Changed Thaumaturgus stats to match description
+2023-05-31 23:14
 - Added dragon mutations (6 positive and 4 negative)
-- Added sound effect to mutation
-- Updated description for Coremaul
-- Changed player hit bonus stats and requirement
+- Added ascension gems reward to defeating a mutated dragon
+- Every mutation now has mutation cores
 Visit the discord server for more details
