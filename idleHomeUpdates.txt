@@ -1,4 +1,4 @@
 2023-05-31 23:14
 - Added ascension gems reward to defeating a mutated dragon
-- Every mutation now has mutation cores
+- Every mutation now has mutation cores (Destroying mutation cores will remove the mutation)
 Visit the discord server for more details
