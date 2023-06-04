@@ -1,6 +1,7 @@
-2023-06-02 02:47
-- Added new ascension upgrade: Clunker!
-  - Activate active skills of weapons held by Clunker
-  - Does not provide stats from held skills
-- Changed chance to encounter mutation on normal dragons = 0.02 * hitsPerSecond * baseMutationChance
+2023-06-05 01:34
+- Addded name of last unlocked pet to ascension combo
+- Added abbreviations to the bottom of mutation icons
+- Added VRCX save loader
+- Added QR Code generator for save code
+- Changed billiards table
 Visit the discord server for more details
