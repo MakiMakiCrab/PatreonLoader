@@ -1,7 +1,7 @@
-2023-06-05 01:34
-- Addded name of last unlocked pet to ascension combo
+2023-06-08 01:30
+- Added name of last unlocked pet to ascension combo
 - Added abbreviations to the bottom of mutation icons
 - Added VRCX save loader
 - Added QR Code generator for save code
-- Changed billiards table
+- Added new tablet mode that shows hidden stats
 Visit the discord server for more details
