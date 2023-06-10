@@ -1,7 +1,8 @@
-2023-06-08 01:30
-- Added name of last unlocked pet to ascension combo
-- Added abbreviations to the bottom of mutation icons
-- Added VRCX save loader
-- Added QR Code generator for save code
-- Added new tablet mode that shows hidden stats
+2023-06-10 11:34
+- Added new ability to Malachitic Unmaker's active skill, where if the chance to drop a key exceeds 100%, guarantee chance/100 keys
+- Added animation for clunker to jump towards dragon and spin after activation
+- Changed clunker cooldown to 1 minute
+- Increased gacha key drop chance for bosses to 100 - 99/(0.002 * LK + 1)
+- Added 3 good mutations
+- Added 5 bad mutations
 Visit the discord server for more details
