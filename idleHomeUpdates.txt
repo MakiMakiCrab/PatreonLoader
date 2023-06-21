@@ -1,7 +1,8 @@
-2023-06-11 02:20
-- Added new abilities to Malachitic Unmaker's active skill, multiply key drop chance by 1+0.01*lvl and guarantee 1 extra key for each additional 100% chance to drop keys
-- Added new ability to Amthys's active skill, halve the cooldown on any weapon that is on cooldown
-- Added 3 good mutations and 5 bad mutations
-- Increased gacha key drop chance for bosses to 100 - 99/(0.002 * LK + 1)
-- Scoreboard can now be sorted by clicking the header
+2023-06-22 04:30
+- Added new ascension upgrade: Potion Station
+  - Brew potions using fruits and vegetables unlocked from gacha
+  - Does not consume gacha
+  - Currently has only 1 level
+- Changed Open 100 gacha toggle to a 10^n slider from 1 to 10000
+- Fixed video player mute bug
 Visit the discord server for more details
