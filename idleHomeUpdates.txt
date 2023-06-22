@@ -1,8 +1,9 @@
-2023-06-22 04:30
+2023-06-23 05:00
 - Added new ascension upgrade: Potion Station
   - Brew potions using fruits and vegetables unlocked from gacha
   - Does not consume gacha
   - Currently has only 1 level
+  - Enabling furniture colliders, turns on colliders for the potion station
 - Changed Open 100 gacha toggle to a 10^n slider from 1 to 10000
 - Fixed video player mute bug
 Visit the discord server for more details
