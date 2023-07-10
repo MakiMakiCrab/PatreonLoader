@@ -1,5 +1,5 @@
-2023-07-04 22:43
-- Added private rooms (enter the same code to be in the same room)
-- Updated potion station
-- Auto save no longer saves when at stage 1 and no normal upgrades are bought
+2023-07-10 23:18
+- Added pet followers
+- Added portable shelf settings to save
+- Fixed bugs
 Visit the discord server for more details
