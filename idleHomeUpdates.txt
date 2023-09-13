@@ -2,6 +2,6 @@
 - Added Astral Ascension
   - Consume Ascension Gems to gain Astral Blooms
   - Spend Astral Blooms to limit break pets, multiplying its damage by 10
-  - Limit break cost scales based on the pet's base damage exponent
+  - Limit break cost scales based on the exponent of the pet's base damage
 - Adjusted late game pet costs
 Visit the discord server for more details
