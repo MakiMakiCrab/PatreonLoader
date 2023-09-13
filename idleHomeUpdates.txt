@@ -1,7 +1,7 @@
-2023-08-02 23:02
-- Added weather system
-- Added weapon stacks to save data
-- Added pet follower menu teleport to private room
-- Changed pet followers to be able to move in private rooms
-- Shelf and tablet left in private rooms now get teleported when joining another private room
+2023-09-14 01:05
+- Added Astral Ascension
+  - Consume Ascension Gems to gain Astral Blooms
+  - Spend Astral Blooms to limit break pets, multiplying its damage by 10
+  - Limit break cost scales based on the pet's base damage exponent
+- Adjusted late game pet costs
 Visit the discord server for more details
