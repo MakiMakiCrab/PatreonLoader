@@ -1,5 +1,5 @@
 2023-10-08 02:15
-- Reworked daily gacha to give a random amount of key starting at 1-5 per slot
+- Reworked daily gacha to give a random amount of key, starting at 1-5 per slot
 - Reworked astral ascension requirements
 - Changed scaling of temporary upgrades
 - Bug fixes
