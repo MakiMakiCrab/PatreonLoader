@@ -1,5 +1,6 @@
-2023-10-05 00:10
-- Added temporary upgrades to astral ascension menu
-- Added button to salvage limit break upgrades for 90% of the cost
+2023-10-08 02:15
+- Reworked daily gacha to give a random amount of key starting at 1-5 per slot
+- Reworked astral ascension requirements
+- Changed scaling of temporary upgrades
 - Bug fixes
 Visit the discord server for more details
