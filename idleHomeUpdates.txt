@@ -1,8 +1,5 @@
-2023-10-12 23:35
-- Added Gacha Key Multiplier temporary upgrade
-- Added Auto Damage Treasure (AD>T) mutation
-- Changed Health to Key (HP>K) mutation
-- Fixed bug
-- Fixed some log spam
+2023-10-18 11:11
+- Added a witch hat to the dragon
+- Added Halloween themed terrain
 - Bug fixes
 Visit the discord server for more details
