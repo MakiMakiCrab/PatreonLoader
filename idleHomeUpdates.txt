@@ -1,5 +1,4 @@
-2023-10-18 11:11
-- Added a witch hat to the dragon
-- Added Halloween themed terrain
-- Bug fixes
+2023-11-22 05:25
+- Changed to Christmas theme
+- Reduced log spam
 Visit the discord server for more details
