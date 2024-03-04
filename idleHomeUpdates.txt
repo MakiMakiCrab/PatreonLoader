@@ -1,5 +1,5 @@
 2024-03-04 20:00
-- Added theme toggles (Themes automatically change depending on the month)
+- Added theme toggles
 - Added Auto Upgrader selection to save code
 - Changed Auto Upgrader to upgrade earlier pets if the selected pet is not purchasable
 Visit the discord server for more details
