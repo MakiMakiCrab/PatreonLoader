@@ -1,5 +1,5 @@
-2024-03-04 20:00
-- Added theme toggles
-- Added Auto Upgrader selection to save code
-- Changed Auto Upgrader to upgrade earlier pets if the selected pet is not purchasable
+2024-09-14 00:25
+- Added ADR Bonus temporary upgrade
+- Added x10, x100, and Max buttons to limit break
+- Added ADR stat bonuses for upgrading limit break
 Visit the discord server for more details
