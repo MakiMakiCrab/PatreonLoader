@@ -1,5 +1,4 @@
-2024-09-14 00:25
-- Added ADR Bonus temporary upgrade
-- Added x10, x100, and Max buttons to limit break
-- Added ADR stat bonuses for upgrading limit break
+2024-10-07 20:25
+- Changed limit break restriction
+- Updated billiards table
 Visit the discord server for more details
