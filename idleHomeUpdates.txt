@@ -1,4 +1,5 @@
 2024-11-22 20:25
 - Added world persistence save slots
+  - Try going to a new instance and update your game if you are having problems
 - Changed limit break restriction cost scaling
 Visit the discord server for more details
