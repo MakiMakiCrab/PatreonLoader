@@ -1,4 +1,4 @@
-2024-10-07 20:25
-- Changed limit break restriction
-- Updated billiards table
+2024-11-22 20:25
+- Added world persistence save slots
+- Changed limit break restriction cost scaling
 Visit the discord server for more details
