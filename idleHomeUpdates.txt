@@ -1,5 +1,5 @@
 2024-11-24 23:55
-<color=#dd0000>Make sure to create a new instance!</color>
+<size=150%><color=#dd0000>Make sure to create a new instance!</color></size>
 - Added world persistence save slots
 - Changed leaderboards to use VRChat player objects
 - Changed limit break restriction cost scaling
