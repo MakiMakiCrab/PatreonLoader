@@ -1,7 +1,6 @@
-2024-11-24 23:55
+2025-3-10 22:45
 <size=150%><color=#dd0000>Make sure to create a new instance!</color></size>
-- Added world persistence save slots
-- Changed leaderboards to use VRChat player objects
-- Changed limit break restriction cost scaling
-- Pet followers can now follow other players
+- Gacha Dimensional Storage will retain 1 level of gacha rewards at a rarity or below (rarity changes every 8 levels)
+- Changed ascension combo to reset after ascending with a different pet from the combo pet or unlocking a pet higher than the combo pet
+- Changed video player to ProTV
 Visit the discord server for more details
