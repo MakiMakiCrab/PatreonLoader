@@ -1,6 +1,7 @@
-2025-3-10 22:45
+2025-3-11 14:45
 <size=150%><color=#dd0000>Make sure to create a new instance!</color></size>
 - Gacha Dimensional Storage will retain 1 level of gacha rewards at a rarity or below (rarity changes every 8 levels)
 - Changed ascension combo to reset after ascending with a different pet from the combo pet or unlocking a pet higher than the combo pet
 - Changed video player to ProTV
+- Bug fixes
 Visit the discord server for more details
